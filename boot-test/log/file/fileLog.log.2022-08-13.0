@@ -1,0 +1,67 @@
+2022-08-13 12:36:27,885 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 15440 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 12:36:27,903 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 12:36:30,504 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 12:36:30,525 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 12:36:30,526 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 12:36:30,526 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 12:36:31,989 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 12:36:31,990 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 3992 ms
+2022-08-13 12:36:32,527 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 12:36:32,569 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path ''
+2022-08-13 12:36:32,577 INFO (StartupInfoLogger.java:61)- Started TestApplication in 7.306 seconds (JVM running for 13.279)
+2022-08-13 12:40:17,702 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 10352 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 12:40:17,758 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 12:40:30,560 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 12:40:30,646 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 12:40:30,685 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 12:40:30,686 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 12:40:34,665 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 12:40:34,665 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 15006 ms
+2022-08-13 12:40:36,854 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 12:40:37,208 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path ''
+2022-08-13 12:40:37,335 INFO (StartupInfoLogger.java:61)- Started TestApplication in 33.459 seconds (JVM running for 62.665)
+2022-08-13 12:40:38,811 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-13 12:40:38,813 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2022-08-13 12:40:38,814 INFO (FrameworkServlet.java:547)- Completed initialization in 1 ms
+2022-08-13 12:40:39,141 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:00,842 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:01,175 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:01,328 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:01,535 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:01,744 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:01,940 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:02,135 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:02,319 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:02,506 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:02,694 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:02,887 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:03,079 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:03,271 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:03,438 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 12:41:03,624 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 13:03:29,927 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 9836 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 13:03:29,954 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 13:03:31,989 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 13:03:32,003 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 13:03:32,004 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 13:03:32,005 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 13:03:32,270 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 13:03:32,272 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 2237 ms
+2022-08-13 13:03:33,076 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 13:03:33,107 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path ''
+2022-08-13 13:03:33,126 INFO (StartupInfoLogger.java:61)- Started TestApplication in 4.572 seconds (JVM running for 8.068)
+2022-08-13 13:47:58,273 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-13 13:47:58,278 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2022-08-13 13:47:58,316 INFO (FrameworkServlet.java:547)- Completed initialization in 37 ms
+2022-08-13 13:47:58,500 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 13:47:58,526 INFO (IndexController.java:22)- log:ss,dsd
+2022-08-13 13:48:02,701 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 13:48:02,702 INFO (IndexController.java:22)- log:ss,dsd
+2022-08-13 13:48:02,957 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 13:48:02,957 INFO (IndexController.java:22)- log:ss,dsd
+2022-08-13 13:48:03,455 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 13:48:03,455 INFO (IndexController.java:22)- log:ss,dsd
+2022-08-13 13:48:03,660 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 13:48:03,660 INFO (IndexController.java:22)- log:ss,dsd
+2022-08-13 13:48:03,852 INFO (IndexController.java:21)- log:ss,dd
+2022-08-13 13:48:03,853 INFO (IndexController.java:22)- log:ss,dsd

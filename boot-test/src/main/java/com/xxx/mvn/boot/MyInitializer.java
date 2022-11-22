@@ -1,0 +1,18 @@
+package com.xxx.mvn.boot;
+
+import org.springframework.context.ApplicationContextInitializer;
+import org.springframework.context.ConfigurableApplicationContext;
+
+
+/**
+ * 初始化器
+ * @author Ging
+ */
+public class MyInitializer implements ApplicationContextInitializer<ConfigurableApplicationContext> {
+
+
+    @Override
+    public void initialize(ConfigurableApplicationContext applicationContext) {
+        System.out.println("初始化器");
+    }
+}

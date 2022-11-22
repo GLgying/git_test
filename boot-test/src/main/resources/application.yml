@@ -1,0 +1,24 @@
+server:
+  port: 8080
+#  servlet:
+#    context-path: /test
+
+#spring:
+#  profiles:
+#    active: redis
+
+
+#自定义 自动加载 redis 配置
+#redis:
+#  port: 6379
+#  host: localhost
+#  日志配置
+logging:
+  config: classpath:log/logback.xml
+spring:
+  redis:
+    host: localhost
+    port: 6379
+
+
+
