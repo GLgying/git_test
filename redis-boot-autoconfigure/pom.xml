@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>redis.xxx.mvn</groupId>
+  <artifactId>redis-boot-autoconfigure</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>redis-boot-autoconfigure</name>
+  <url>http://www.example.com</url>
+
+  <parent>
+    <artifactId>boot</artifactId>
+    <groupId>com.xxx.mvn</groupId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+    <!--用于编译时生成配置文件对应的json 便于yml中联想 方便使用-->
+    <!--G:\workspaces\study\boot\redis-boot-autoconfigure\target\classes\META-INF\spring-configuration-metadata.json-->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-configuration-processor</artifactId>
+      <optional>true</optional>
+    </dependency>
+    <dependency>
+      <groupId>redis.clients</groupId>
+      <artifactId>jedis</artifactId>
+      <version>4.2.3</version>
+    </dependency>
+  </dependencies>
+
+
+</project>

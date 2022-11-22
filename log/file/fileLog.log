@@ -1,0 +1,189 @@
+2022-08-13 09:19:56,054 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 3408 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 09:19:56,066 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 09:19:59,836 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 09:19:59,859 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:19:59,860 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 09:19:59,861 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 09:20:00,815 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 09:20:00,816 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 4578 ms
+2022-08-13 09:20:01,635 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:20:01,756 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 09:20:01,795 INFO (StartupInfoLogger.java:61)- Started TestApplication in 7.895 seconds (JVM running for 11.528)
+2022-08-13 09:21:50,818 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 15160 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 09:21:50,824 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 09:21:53,024 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 09:21:53,043 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:21:53,044 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 09:21:53,045 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 09:21:53,343 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 09:21:53,344 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 2449 ms
+2022-08-13 09:21:54,271 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:21:54,306 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 09:21:54,323 INFO (StartupInfoLogger.java:61)- Started TestApplication in 4.638 seconds (JVM running for 8.861)
+2022-08-13 09:47:48,820 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 13736 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 09:47:48,963 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 09:47:56,246 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 09:47:56,292 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:47:56,293 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 09:47:56,293 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 09:47:59,107 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 09:47:59,108 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 9786 ms
+2022-08-13 09:48:01,877 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:48:02,418 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 09:48:02,470 INFO (StartupInfoLogger.java:61)- Started TestApplication in 18.51 seconds (JVM running for 28.963)
+2022-08-13 09:50:06,284 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 9840 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 09:50:06,316 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 09:50:08,226 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 09:50:08,241 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:50:08,242 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 09:50:08,242 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 09:50:08,798 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 09:50:08,801 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 2365 ms
+2022-08-13 09:50:09,788 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:50:10,006 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 09:50:10,101 INFO (StartupInfoLogger.java:61)- Started TestApplication in 6.133 seconds (JVM running for 14.036)
+2022-08-13 09:53:56,520 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 13676 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 09:53:56,540 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 09:53:58,792 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 09:53:58,811 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:53:58,812 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 09:53:58,813 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 09:53:59,259 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 09:53:59,260 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 2624 ms
+2022-08-13 09:54:00,067 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:54:00,103 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 09:54:00,115 INFO (StartupInfoLogger.java:61)- Started TestApplication in 5.388 seconds (JVM running for 11.073)
+2022-08-13 09:56:36,852 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 6304 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 09:56:36,917 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 09:56:39,235 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 09:56:39,250 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:56:39,251 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 09:56:39,252 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 09:56:39,602 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 09:56:39,603 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 2468 ms
+2022-08-13 09:56:40,439 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:56:40,523 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 09:56:40,536 INFO (StartupInfoLogger.java:61)- Started TestApplication in 5.807 seconds (JVM running for 12.487)
+2022-08-13 09:58:07,429 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 15220 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 09:58:07,435 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 09:58:08,876 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 09:58:08,888 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:58:08,889 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 09:58:08,890 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 09:58:09,105 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 09:58:09,105 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 1598 ms
+2022-08-13 09:58:09,818 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 09:58:09,846 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 09:58:09,857 INFO (StartupInfoLogger.java:61)- Started TestApplication in 3.513 seconds (JVM running for 6.401)
+2022-08-13 10:00:16,826 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 11268 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 10:00:16,832 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 10:00:19,201 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 10:00:19,226 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:00:19,228 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 10:00:19,229 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 10:00:19,820 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 10:00:19,821 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 2839 ms
+2022-08-13 10:00:21,038 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:00:21,094 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 10:00:21,126 INFO (StartupInfoLogger.java:61)- Started TestApplication in 6.506 seconds (JVM running for 11.454)
+2022-08-13 10:03:06,124 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 12992 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 10:03:06,142 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 10:03:06,799 WARN (AbstractApplicationContext.java:591)- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.xxx.mvn.TestApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'indexController' for bean class [com.xxx.mvn.controller.IndexController] conflicts with existing, non-compatible bean definition of same name and class [com.xxx.mvn.boot.controller.IndexController]
+2022-08-13 10:03:07,234 ERROR (SpringApplication.java:830)- Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.xxx.mvn.TestApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'indexController' for bean class [com.xxx.mvn.controller.IndexController] conflicts with existing, non-compatible bean definition of same name and class [com.xxx.mvn.boot.controller.IndexController]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at com.xxx.mvn.TestApplication.main(TestApplication.java:32)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'indexController' for bean class [com.xxx.mvn.controller.IndexController] conflicts with existing, non-compatible bean definition of same name and class [com.xxx.mvn.boot.controller.IndexController]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:128)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 11 common frames omitted
+2022-08-13 10:04:19,636 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 14512 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 10:04:19,653 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 10:04:22,089 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 10:04:22,113 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:04:22,116 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 10:04:22,117 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 10:04:22,473 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 10:04:22,474 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 2732 ms
+2022-08-13 10:04:23,421 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:04:23,450 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 10:04:23,464 INFO (StartupInfoLogger.java:61)- Started TestApplication in 5.046 seconds (JVM running for 8.645)
+2022-08-13 10:13:48,584 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 13560 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 10:13:48,594 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 10:13:51,265 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 10:13:51,279 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:13:51,280 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 10:13:51,281 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 10:13:51,919 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 10:13:51,920 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 3131 ms
+2022-08-13 10:13:52,780 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:13:52,813 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 10:13:52,835 INFO (StartupInfoLogger.java:61)- Started TestApplication in 6.452 seconds (JVM running for 11.122)
+2022-08-13 10:16:02,188 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 7468 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 10:16:02,218 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 10:16:05,236 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 10:16:05,251 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:16:05,253 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 10:16:05,253 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 10:16:05,500 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 10:16:05,500 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 3197 ms
+2022-08-13 10:16:06,246 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:16:06,278 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 10:16:06,316 INFO (StartupInfoLogger.java:61)- Started TestApplication in 5.67 seconds (JVM running for 8.43)
+2022-08-13 10:17:59,512 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 15036 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 10:17:59,515 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 10:18:00,633 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 10:18:00,644 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:18:00,645 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 10:18:00,646 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 10:18:00,825 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 10:18:00,825 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 1273 ms
+2022-08-13 10:18:01,210 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:18:01,228 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path '/test'
+2022-08-13 10:18:01,238 INFO (StartupInfoLogger.java:61)- Started TestApplication in 2.359 seconds (JVM running for 4.198)
+2022-08-13 10:19:10,875 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-13 10:19:10,876 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2022-08-13 10:19:10,883 INFO (FrameworkServlet.java:547)- Completed initialization in 6 ms
+2022-08-13 10:19:47,413 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 11012 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 10:19:47,417 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 10:19:48,531 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 10:19:48,539 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:19:48,540 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 10:19:48,540 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 10:19:48,672 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 10:19:48,673 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 1220 ms
+2022-08-13 10:19:49,062 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:19:49,094 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path ''
+2022-08-13 10:19:49,110 INFO (StartupInfoLogger.java:61)- Started TestApplication in 2.375 seconds (JVM running for 3.86)
+2022-08-13 10:19:56,447 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-13 10:19:56,448 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2022-08-13 10:19:56,450 INFO (FrameworkServlet.java:547)- Completed initialization in 1 ms
+2022-08-13 10:22:33,107 INFO (StartupInfoLogger.java:55)- Starting TestApplication using Java 1.8.0_131 on DESKTOP-LMGGHJN with PID 6824 (G:\workspaces\study\boot\boot-test\target\classes started by Ging in G:\workspaces\study\boot)
+2022-08-13 10:22:33,124 INFO (SpringApplication.java:646)- The following 1 profile is active: "test"
+2022-08-13 10:22:34,586 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8083 (http)
+2022-08-13 10:22:34,597 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:22:34,597 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-08-13 10:22:34,598 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-08-13 10:22:34,838 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-08-13 10:22:34,838 INFO (ServletWebServerApplicationContext.java:290)- Root WebApplicationContext: initialization completed in 1634 ms
+2022-08-13 10:22:35,251 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8083"]
+2022-08-13 10:22:35,269 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8083 (http) with context path ''
+2022-08-13 10:22:35,278 INFO (StartupInfoLogger.java:61)- Started TestApplication in 3.025 seconds (JVM running for 4.786)
+2022-08-13 10:22:38,963 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-13 10:22:38,963 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2022-08-13 10:22:38,964 INFO (FrameworkServlet.java:547)- Completed initialization in 0 ms

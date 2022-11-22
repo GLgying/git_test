@@ -1,0 +1,4 @@
+redis\xxx\mvn\config\RedisProperties.class
+redis\xxx\mvn\App.class
+META-INF\spring-configuration-metadata.json
+redis\xxx\mvn\config\RedisAutoConfigure.class

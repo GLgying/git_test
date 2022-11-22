@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "redis",
+      "type": "redis.xxx.mvn.config.RedisProperties",
+      "sourceType": "redis.xxx.mvn.config.RedisProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "redis.host",
+      "type": "java.lang.String",
+      "sourceType": "redis.xxx.mvn.config.RedisProperties",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "redis.xxx.mvn.config.RedisProperties",
+      "defaultValue": 6379
+    }
+  ],
+  "hints": []
+}

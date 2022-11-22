@@ -1,0 +1,21 @@
+server:
+  port: 8080
+#  servlet:
+#    context-path: /test
+
+spring:
+  profiles:
+    active: mq
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+#自定义 自动加载 redis 配置
+
+#  日志配置
+#logging:
+#  config: classpath:log/logback.xml
+
+
+
+
