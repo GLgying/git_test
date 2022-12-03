@@ -4,7 +4,7 @@ spring:
   datasource:
     username: root
     password: 123456
-    url: jdbc:mysql://localhost:3306/test?serverTimezone=GMT%2B8&characterEncoding=utf8&useSSL=true
+    url: jdbc:mysql://localhost:3306/security?serverTimezone=GMT%2B8&characterEncoding=utf8&useSSL=true
     driver-class-name: com.mysql.cj.jdbc.Driver
     # druid参数调优（可选）,若配置如下参数则必须手动添加配置类
     # 初始化大小，最小，最大
@@ -15,6 +15,11 @@ spring:
       initial-size: 5
       # 配置获取连接等待超时的时间
       max-wait: 60000
+  jpa:
+    hibernate:
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+        implicit-strategy: org.hibernate.boot.model.naming.ImplicitNamingStrategyComponentPathImpl
 mybatis:
   mapper-locations: classpath*:mapper/*.xml
 

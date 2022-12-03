@@ -108,7 +108,15 @@
             <artifactId>druid-spring-boot-starter</artifactId>
             <version>1.1.21</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-commons</artifactId>
+        </dependency>
+        <!--为了使用 @Id @Table 等注解-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
 
     </dependencies>
 

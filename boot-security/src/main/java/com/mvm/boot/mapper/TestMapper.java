@@ -16,13 +16,13 @@ public interface TestMapper {
      * 查询条数
      * @return
      */
-    @Select("select count(*) from test.test01")
+    @Select("select count(*) from security.user")
     int count();
 
     /**
      * 查询全部
      * @return
      */
-    @Select("select * from test01")
+    @Select("select * from security.user")
     List<TestVo> selectAll();
 }
