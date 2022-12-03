@@ -1,9 +1,16 @@
 package com.mvm.boot.controller;
 
+//import com.mvm.boot.service.TestService;
+import com.alibaba.fastjson.JSONObject;
+import com.mvm.boot.entity.TestVo;
+import com.mvm.boot.service.TestService;
 import com.mvm.boot.util.BaseResponse;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.util.List;
 
 /**
  * @author:TuoTuo
@@ -18,12 +25,19 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TestController {
 
+    @Autowired
+    private TestService testService;
     /**
      * 1、不需要登陆就可以访问
      */
     @RequestMapping(value = "/no-login")
     public BaseResponse noLogin() {
         log.info("此次请求的接口：不需要登陆就可访问");
+        int count = testService.count();
+        log.info("查询条数:{}",count);
+        List<TestVo> testVos = testService.selectAll();
+        log.info(testVos.toString());
+        log.info("查询结果:{}", JSONObject.toJSONString(String.valueOf(testVos)));
         return BaseResponse.success("欢迎访问不需要登陆接口");
     }
     /**

@@ -1,9 +1,11 @@
 package com.mvm.boot;
 
 import lombok.extern.slf4j.Slf4j;
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.core.env.Environment;
 import org.springframework.util.StringUtils;
 import org.springframework.web.context.request.RequestAttributes;
@@ -21,6 +23,7 @@ import java.net.UnknownHostException;
  */
 @Slf4j
 @SpringBootApplication
+@MapperScan("com.mvm.boot.mapper")
 public class Application {
     public static void main(String[] args) throws UnknownHostException {
         log.info("====启动开始====");
@@ -36,7 +39,7 @@ public class Application {
         log.info("\n---------------------------------------------------------------------------------------------------\n\t" +
                 "Application chat-service is running! Access URLs:\n\t" +
                 "Local: \t\thttp://localhost:" + port + path + "\n\t" +
-                "External: \thttp://" + ip + ":" + port + path + "\n\t" +
+                "External: \thttp://" + ip + ":" + port + path + "\n" +
 //                "Swagger文档: \thttp://" + ip + ":" + port + path + "doc.html\n" +
                 "----------------------------------------------------------------------------------------------------");
     }
