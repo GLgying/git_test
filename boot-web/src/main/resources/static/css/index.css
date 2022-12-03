@@ -1,0 +1,152 @@
+/*主页面 css样式*/
+body{
+    margin: 0;
+    margin: 0;
+    height: 100%;
+     overflow:hidden;
+}
+/*左侧导航栏*/
+#nav{
+    float:left;
+    margin: 0;
+    padding: 0;
+}
+/*右侧主体*/
+#subject{
+    margin: 0;
+    padding: 0;
+}
+/*左侧导航栏 上方图标*/
+#icon{
+    width: 20vw;
+    height: 10vh;
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+/*左侧导航栏 下方多级菜单*/
+#menu{
+    width: 20vw;
+    height: 90vh;
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+}
+
+/*右侧个人中心*/
+#center{
+    width: 100vw;
+    height: 10vh;
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+
+
+#menu li{
+    list-style: none;
+    padding: 5px;
+}
+
+/*右侧个人中心*/
+/*#center li{*/
+/*    float:right;*/
+/*    list-style: none;*/
+/*    margin: 10px;*/
+/*}*/
+
+/*主要显示内容*/
+#main{
+    width: 100vw;
+    height: 90vh;
+    background-color: rgb(176, 176, 193);
+    margin: 0;
+    padding: 0;
+}
+/*主体上方tab*/
+#tab{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 10vh;
+    background-color:rgb(50, 104, 104)
+}
+/*主体连接主要展示部分*/
+#show{
+    margin: 0;
+    padding: 0;
+    width: 70vw;
+    height: 80vh;
+    float:left;
+    display: flex;
+    background-color:aqua
+}
+/*通知信息*/
+#notice{
+    margin: 0;
+    padding: 0;
+    width: 10vw;
+    height: 80vh;
+    float:right;
+    background-color:rgb(189, 133, 21)
+}
+/*主体连接主要展示部分*/
+#show iframe{
+    background-color:blue;
+    margin: 0;
+    padding: 0;
+    border-width:0;
+    float:left;
+}
+
+/* 个人中心样式开始 */
+ul {
+    /* 去除圆点 */
+    list-style: none;
+}
+.box {
+    margin: 0;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+.box .item {
+    float: left;
+    width: 98px;
+    text-align: center;
+    color: white;
+    border: 1px solid black;
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+}
+/* item标签悬浮样式 */
+.item:hover {
+    background-color: brown;
+}
+.item ul {
+    /* item的ul 隐藏 */
+    display: none;
+    background-color: rgb(226, 226, 232);
+    color: black;
+}
+.item:hover ul {
+    /* 隐藏的ul 展示出来 */
+    padding: 0;
+    display: block;
+}
+/* item的子标签li 悬浮样式 */
+.item li:hover {
+    color: rgb(254, 60, 6);
+}
+.item li a:hover {
+    color: rgb(254, 60, 6);
+}
+/* li加边框 */
+.item li {
+    border: 1px solid rgb(14, 4, 24);
+}
+a{
+    text-decoration: none;
+}
+/* 个人中心样式结束 */

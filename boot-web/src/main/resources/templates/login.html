@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>开卷有益</title>
+    <link rel="stylesheet" th:href="@{/layui/css/layui.css}">
+    <style>
+
+        .layui-input{
+            width: 300px ;
+        }
+        .carousel {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: 90;
+            background-color: rgba(0, 0, 0, 0.3);
+            background-size: 100% 100%;
+        }
+
+        .login {
+            height: 190px;
+            width: 340px;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 4px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin: -150px 0 0 -150px;
+            z-index: 99;
+        }
+        a{
+            width:300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="layui-carousel carousel"  lay-filter="carousel" id="carousel">
+        <div carousel-item="">
+<!--            <div><img th:src="@{/img/bg1.jpg}"></div>-->
+<!--            <div><img th:src="@{/img/bg2.jpg}"></div>-->
+<!--            <div><img th:src="@{/img/bg3.jpg}"></div>-->
+<!--            <div><img th:src="@{/img/bg4.jpg}"></div>-->
+<!--            <div><img th:src="@{/img/bg5.jpg}"></div>-->
+<!--            <div><img th:src="@{/img/bg6.jpg}"></div>-->
+<!--            <div><img th:src="@{/img/bg7.jpg}"></div>-->
+        </div>
+
+        <div class="layui-container login">
+            <form id="loginForm" th:action="@{/sys/user/login}" class="layui-form" method="post" layui-form-pane>
+                <input name="type"  type="hidden" value="1">
+                <input type="text" name="username" lay-verify="required" placeholder="请输入账号" autocomplete="off"   class="layui-input">
+                <br>
+                <input type="password" name="password" lay-verify="required" placeholder="请输入密码" autocomplete="off" class="layui-input">
+                <br>
+                <a class="layui-btn  layui-btn-normal "  lay-filter="submit" lay-submit="" id="submit">登陆</a>
+            </form>
+        </div>
+    </div>
+
+<script th:src="@{/js/jquery/jquery-3.5.1.min.js}"></script>
+<script th:src="@{/layui/layui.js}"></script>
+<script th:src="@{/js/core.util.js}"></script>
+<script th:src="@{/js/login.js}" ></script>
+<script th:inline="javascript">
+    let layer = layui.layer;
+    let $ = jQuery = layui.jquery;
+    let form = layui.form;
+    let carousel = layui.carousel;
+    let successUrl =[[@{/index/home}]];
+</script>
+</body>
+</html>

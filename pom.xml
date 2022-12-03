@@ -19,6 +19,8 @@
     <module>boot-domain</module>
       <module>boot-mq</module>
       <module>boot-redis</module>
+      <module>boot-web</module>
+      <module>boot-security</module>
   </modules>
 
   <name>boot</name>

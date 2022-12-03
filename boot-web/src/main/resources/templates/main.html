@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<span th:text="${#dates.format(#dates.createNow(), 'yyyy-MM-dd HH:mm:ss SSS')}"></span>
+
+<script>
+    // let timer = setInterval(function(){
+    //     console.log(1)
+    // },1000)
+    // document.onclick = ()=>{
+    //     console.log("定时器停止了")
+    //     clearInterval(timer)
+    // }
+</script>
+</body>
+</html>
